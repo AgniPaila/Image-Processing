@@ -16,4 +16,4 @@ This repository contains solutions to a set of image processing exercises using 
 4. Execute each block step-by-step using a Jupyter notebook
 
 ## 📘 Course Info
-Course: Υπολογιστική Όραση (Computer Vision)
+Course: Υπολογιστική Όραση (Computer Vision - 3rd year)
